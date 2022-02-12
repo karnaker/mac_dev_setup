@@ -36,8 +36,16 @@ Steps to setup my Mac.
 1. Set global default Python version to the latest: `pyenv global 3.10.2`
 1. Confirm that the latest version of python is immediately set in the shell: `python -V`
 
+## Set up Ansible playbook
+
+1. Set up a directory structure for projects: code\[repository host]\[username]\[repository].
+1. Git clone your fork of the [Mac Development Ansible Playbook](https://github.com/geerlingguy/mac-dev-playbook).
+1. Create a `config.yml` in your local mac-dev-playbook that contains a list of packages and configuration settings that you want to apply to your environment.
+1. Add your own dotfiles repository to `config.yml` to set up custom configurations for your software.
+
 ## References
 1. [How to Set up an Apple Mac for Software Development](https://www.stuartellis.name/articles/mac-setup/)
 1. [How to Automatically Setup Your MacBook for Development](https://towardsthecloud.com/automatically-setup-macbook-development)
 1. [Setup macOS 2021 For Optimal Command Line Productivity](https://matt.sh/setup-2021-late)
 1. [How to use pyenv to run multiple versions of Python on a Mac](https://opensource.com/article/20/4/pyenv)
+1. [Mac Development Ansible Playbook](https://github.com/geerlingguy/mac-dev-playbook)
