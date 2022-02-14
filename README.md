@@ -7,7 +7,7 @@ Steps to setup my Mac.
 1. Select Your Country or Region: United States
 1. Accessibility
    1. Vision
-     1. Appearance: Dark
+      1. Appearance: Dark
 1. Select Your Wi-Fi Network
 1. Sign In With Your Apple ID
 1. Account Name: vikram
