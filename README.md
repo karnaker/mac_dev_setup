@@ -17,11 +17,9 @@ Steps to setup my Mac.
 1. iCloud Keychain: Set up later
 1. Apple Pay: Set up later
 
-## Update software and install command-line tools
+## Update software
 
 1. Run Software Update, and ensure that the operating system is at the latest point release.
-1. Open the Terminal application on macOS.
-1. Ensure Apple's command-line tools are installed: `xcode-select --install`
 
 ## Install Homebrew
 
