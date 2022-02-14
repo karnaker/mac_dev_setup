@@ -5,11 +5,17 @@ Steps to setup my Mac.
 
 1. Language: English
 1. Select Your Country or Region: United States
+1. Accessibility
+   1. Vision
+     1. Appearance: Dark
+1. Select Your Wi-Fi Network
+1. Sign In With Your Apple ID
 1. Account Name: vikram
 1. Analytics: Do not share any information
 1. Improve Siri & Dictation: Not Now
 1. FileVault Disk Encryption: Turn on FileVault disk encryption
-1. Would you like to use iCloud Keychain on this Mac? Set up later
+1. iCloud Keychain: Set up later
+1. Apple Pay: Set up later
 
 ## Update software and install command-line tools
 
@@ -45,7 +51,12 @@ Steps to setup my Mac.
 
 ## References
 1. [How to Set up an Apple Mac for Software Development](https://www.stuartellis.name/articles/mac-setup/)
-1. [How to Automatically Setup Your MacBook for Development](https://towardsthecloud.com/automatically-setup-macbook-development)
+1. [GitHub does dotfiles](https://dotfiles.github.io/)
+1. [Dotfiles: automating macOS system configuration](https://kalis.me/dotfiles-automating-macos-system-configuration/)
+  1. [rkalis/dotfiles](https://github.com/rkalis/dotfiles)
 1. [Setup macOS 2021 For Optimal Command Line Productivity](https://matt.sh/setup-2021-late)
 1. [How to use pyenv to run multiple versions of Python on a Mac](https://opensource.com/article/20/4/pyenv)
+
+## TODO: REMOVE
+1. [How to Automatically Setup Your MacBook for Development](https://towardsthecloud.com/automatically-setup-macbook-development)
 1. [Mac Development Ansible Playbook](https://github.com/geerlingguy/mac-dev-playbook)
