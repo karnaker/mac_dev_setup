@@ -52,9 +52,17 @@ Steps to setup my Mac.
 1. [GitHub does dotfiles](https://dotfiles.github.io/)
 1. [Dotfiles: automating macOS system configuration](https://kalis.me/dotfiles-automating-macos-system-configuration/)
   1. [rkalis/dotfiles](https://github.com/rkalis/dotfiles)
+1. [Wes Bos' Command Line Power User Course](https://courses.wesbos.com/account/access/6208a5fd4407c61ab3ce1368)
+1. [Oh My Zsh](https://ohmyz.sh/)
+  1. [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
 1. [Setup macOS 2021 For Optimal Command Line Productivity](https://matt.sh/setup-2021-late)
 1. [How to use pyenv to run multiple versions of Python on a Mac](https://opensource.com/article/20/4/pyenv)
 
-## TODO: REMOVE
+## TODO
+1. Install oh-my-zsh as part of bootstrap script: `$ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
+1. Install powerline fonts
+1. Install zsh themes
+
+## TODO: DELETE BELOW
 1. [How to Automatically Setup Your MacBook for Development](https://towardsthecloud.com/automatically-setup-macbook-development)
 1. [Mac Development Ansible Playbook](https://github.com/geerlingguy/mac-dev-playbook)
