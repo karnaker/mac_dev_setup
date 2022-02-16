@@ -21,6 +21,31 @@ Steps to setup my Mac.
 
 1. Run Software Update, and ensure that the operating system is at the latest point release.
 
+## TODO
+
+## Install iTerm2
+
+1. Install iTerm2: `brew install --cask iterm2`
+   1. Install oh-my-zsh: `sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
+   1. Download and install powerline fonts (i.e. Fira Mono for Powerline): https://github.com/powerline/fonts
+      1. ```
+         # clone
+         git clone https://github.com/powerline/fonts.git --depth=1
+         # install
+         cd fonts
+         ./install.sh
+         # clean-up a bit
+         cd ..
+         rm -rf fonts
+      1. see: https://github.com/tomnomnom/dotfiles/blob/master/powerline-fonts.sh
+   1. oh-my-zsh Theme (in zshrc): agnoster 
+   1. iTerm configuration
+      1. Colors > Color Presets...: `Tango Dark`
+      1. Text > Font:
+         1. `Fira Mono for Powerline`
+         1. `Medium`
+         1. `14`
+
 ## Install Homebrew
 
 1. Install [Homebrew](https://brew.sh/): `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
