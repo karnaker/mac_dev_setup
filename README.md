@@ -21,6 +21,10 @@ Steps to setup my Mac.
 
 1. Run Software Update, and ensure that the operating system is at the latest point release.
 
+## iTerm2 Profile
+
+1. Install iTerm2 Profile from dotfiles>zsh
+
 ## TODO
 
 ## Install iTerm2
