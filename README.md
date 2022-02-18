@@ -27,6 +27,11 @@ Steps to setup my Mac.
 
 ## TODO
 
+macos > setup.sh # Mac App Store
+use pyenv to install latest version of python and make it global default
+use dockutil to set the dock
+retry packages, macos
+
 ## Install iTerm2
 
 1. Install iTerm2: `brew install --cask iterm2`
