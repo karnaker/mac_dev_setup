@@ -3,12 +3,17 @@ Steps to setup my Mac.
 
 ## TODO
 
+## ExpressVPN
+1. Add to brewfile
+
 ## Oh My Zsh
 1. Can I check if this is already installed?
     1. https://www.codegrepper.com/code-examples/shell/how+to+check+if+oh+my+zsh+is+installed
+1. Should I separate it from the zsh script?
 
 ## Powerline fonts
 1. Can I check if this is already installed?
+1. Should I separate it from the zsh script?
 
 ## Install pyenv and the python version you would like to run
 
