@@ -3,17 +3,10 @@ Steps to setup my Mac.
 
 ## TODO
 
-## ExpressVPN
-1. Add to brewfile
-
-## Oh My Zsh
-1. Can I check if this is already installed?
-    1. https://www.codegrepper.com/code-examples/shell/how+to+check+if+oh+my+zsh+is+installed
-1. Should I separate it from the zsh script?
-
-## Powerline fonts
-1. Can I check if this is already installed?
-1. Should I separate it from the zsh script?
+## Window Snapping
+1. Is there a free and high quality window snapping utility that I can brew install?
+    1. [Rectangle](https://rectangleapp.com/)
+       1. [Rectangle brew](https://formulae.brew.sh/cask/rectangle)
 
 ## Install pyenv and the python version you would like to run
 
