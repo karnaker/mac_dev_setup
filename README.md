@@ -3,12 +3,15 @@ Steps to setup my Mac.
 
 ## TODO
 
-## Homebrew next steps
-1. Run these two commands in your terminal to add Homebrew to your PATH:
-    1. echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/vikram/.zprofile
-    1. eval "$(/opt/homebrew/bin/brew shellenv)"
+## Mac background color change (to black) causes an issue
+1. Consider commenting out for now
 
-## Install pyenv and the python version you would like to run
+## What did not work in last install?
+1. pyenv: consider following pyenv github repo instructions for installation rather than current script
+1. repos script did not run. Did others not run? Consider manually triggering repos (all) script(s). Also, insert proper logs/info prompts.
+1. Certain key programs are not installed: heroku cli, redis, miniconda. Consider brew installations or post-setup scripts.
+
+## Consider: Do not auto-install pyenv and the python version you would like to run, e.g.:
 
 1. `brew install pyenv`
 1. `echo 'PATH=$(pyenv root)/shims:$PATH' >> ~/.zshrc`
